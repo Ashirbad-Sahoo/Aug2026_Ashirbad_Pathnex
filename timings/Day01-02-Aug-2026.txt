@@ -1,3 +1,4 @@
 45 min - AWS EC2 lunch
 1hr - git and github setup
-1hr - about ip addresses, subneting, CIDR
+45 min - about ip addresses, subneting, CIDR
+1hr - Linux vaious basic commands
