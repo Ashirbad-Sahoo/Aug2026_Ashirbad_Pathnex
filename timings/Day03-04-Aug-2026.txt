@@ -1,0 +1,3 @@
+3 hr- revision and practice linux commands as per morning class - useradd, usermod, passwd, chown, chgrp, umask, bastion host, tar command
+
+30 min - practiced english speaking
