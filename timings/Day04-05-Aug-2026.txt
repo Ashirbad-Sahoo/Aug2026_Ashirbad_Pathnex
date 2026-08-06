@@ -1,0 +1,3 @@
+2hr - Learned multiple linux day to day trouble shooting commands(kill, kill -9, grep -iEv, ), 6 run levels, special shell variables, networking command(ping, telnet)
+
+30 min - practiced english speaking
