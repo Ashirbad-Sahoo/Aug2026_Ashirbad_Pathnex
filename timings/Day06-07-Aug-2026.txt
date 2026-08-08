@@ -1,0 +1,8 @@
+2 hr: revisioned AWS videos again as per class (cloud vs onprem, cloud deployment models, ec2, golden image, VPC, IAM, S3)
+30 min - practiced english speaking
+45 min - practiced for making intro video
+
+Tomorrows task:
+- Will learn AWS services as per the class and as per assigned task in class.
+- english practice.
+
