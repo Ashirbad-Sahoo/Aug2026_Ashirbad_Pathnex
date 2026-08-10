@@ -1,0 +1,7 @@
+3 hr: revisioned AWS videos again as per class (s3 versioning, control tower, landing zone, route 53, cloud frond, ssm, cloud front, cloud trail, cloud watch, lambda)
+30 min: practiced english speaking
+45 min: practiced for making intro video
+
+Tomorrows task:
+- Will learn AWS services as per the class and as per assigned task in class.
+- english practice.
