@@ -1,0 +1,6 @@
+2 hr: revisioned AWS videos again as per class(aws redshift, aws dms, elastic beanstalk, snow ball, efs, ebs, cloud front and also code buil & deploy, ex-ray)
+1 hr: practiced english speaking and made intro video
+
+Tomorrows task:
+- Will learn docker as per class.
+- english practice.
