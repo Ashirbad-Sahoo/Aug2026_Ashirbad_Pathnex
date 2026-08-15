@@ -1,4 +1,4 @@
-2 hr: learned how to create cluster in EKS as per class.
+3 hr: learned how to create cluster in EKS as per class.
 1 hr: practiced english speaking and made intro video.
 
 Tomorrows task:
