@@ -1,0 +1,6 @@
+3 hr: learned troubleshooting scenarios around eks cluster using terraform as per class and also revisioned the session.
+1 hr: practiced english speaking and made intro video.
+
+Tomorrows task:
+- Will revsion all the topics again (linux, git & github, AWS, K8s)
+- english practice and intro video.
