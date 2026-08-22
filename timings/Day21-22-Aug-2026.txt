@@ -1,0 +1,6 @@
+4 hr: revisioned Ansible conecepts as per class.
+30 min: practiced english speaking and made intro video.
+
+Tomorrows task:
+- Will study ci & cd as per morning session.
+- english practice and intro video.
